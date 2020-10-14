@@ -16,13 +16,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
-		<!--JUNIT -->
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
-			<scope>test</scope>
-		</dependency>
+		
 		<!-- TestNG -->
 		<dependency>
 			<groupId>org.testng</groupId>
